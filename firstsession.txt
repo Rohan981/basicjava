@@ -1,1 +1,17 @@
-THis is my first session. THis is my second notes. 
+Computer is machine containing hardware and software
+
+Hardware - tangible parts of computer (EX: CPU, keyboard, mouse, etc.)
+
+Software - intangible parts of computer also known as programs (EX: Linux, Windows, Operating Systems, etc). special type of software known as operating system boots up computer 
+
+CPU - Central Processing Unit (Brain of Computer)
+
+RAM - Random Access Memory (Serves as scratchpad for calculations)
+
+Hard Disk - Permanent Savers of Information (USB Sticks)
+
+Binary Code - Number System for Computers (Uses specifically 1s and 0s)
+
+101 ---- 1 * 2^2 + 0 * 2^1 + 1* 2^0 = 5
+
+Computers interpret values in a system called ASCII (American Standard Code for Information Interchange)
