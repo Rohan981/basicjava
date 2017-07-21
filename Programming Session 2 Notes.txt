@@ -1,1 +1,26 @@
-Notes Second Class
+Bit - one binary digit, smallest data in computer system and can take either 0 or 1; 2 bits can carry 4 values: 00(0), 01(1), 10(2), 11(3)
+
+EX: 8 bits have 2^8 = 256 values (0 - 255) -- 8 bits carries enough information for alphabet, numbers etc. All ASCII fits into 8 bits. Earlier computers grouped 8 bits into term known as Byte.
+
+Byte - 8 bits
+Kilo byte - 1024 bytes (10^3)
+Mega byte - 1024^2 bytes (10^6)
+Giga byte - 1024^3 bytes (10^9)
+
+RAM - Scratchpad for computer(requires lower GB)
+
+Hard Disk - Memory storage(requires high GB)
+
+File - group of bytes (types of files include text(.txt), picture(.png/.jpeg), video(.mp4) etc.
+
+Folder - collection of files
+
+Command Prompt - where commands can be entered to carry out certain actions in windows; cd\ always typed to get to the root
+
+md - creates directory, cd - changes directory
+
+Absolute Path - get to any directory from anywhere by completely typing the path in Command Prompt
+
+Eclipse - software to develop our own programs
+
+Programs like notepad, calc. etc called IDE (Interactive Development Environment)
