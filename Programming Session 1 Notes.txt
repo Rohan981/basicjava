@@ -19,9 +19,3 @@ Binary Code - Number System for Computers (Uses specifically 1s and 0s)
 Computers interpret values in a system called ASCII (American Standard Code for Information Interchange). Computers incorporate billions of transistors which can be thought of as tiny lightbulbs following steps. 
 
 
-Adding new 
-
-1. git status
-2. git add *
-3. git commit -m "comment"
-4. git push origin
