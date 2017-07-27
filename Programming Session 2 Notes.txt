@@ -24,3 +24,5 @@ Absolute Path - get to any directory from anywhere by completely typing the path
 Eclipse - software to develop our own programs
 
 Programs like notepad, calc. etc called IDE (Interactive Development Environment)
+
+Java programs start from the main, and then follows the instructions given.
