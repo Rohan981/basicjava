@@ -1,0 +1,21 @@
+Open command prompt
+
+cd to root ("cd \")
+
+cd dev
+
+cd basicjava
+
+dir
+
+create notepad with title
+
+dir
+
+git status
+
+git add *
+
+git commit -m"add comment"
+
+git push
